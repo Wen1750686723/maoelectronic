@@ -1,0 +1,15 @@
+@media (min-width: 1200px) {
+	#home-top #carousel-example-generic .img-div {height: 450px;}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+}
+@media (min-width: 769px) and (max-width: 991px) {
+	
+}
+@media (max-width: 768px) {
+	#backtotop {display: none;}
+}
+@media (max-width: 480px) {
+	
+}

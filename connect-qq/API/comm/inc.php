@@ -1,0 +1,2 @@
+<?php die("forbidden"); ?>
+{"appid":"真appid","appkey":"真appkey","callback":"http://127.0.0.1/think/connect_qq","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
